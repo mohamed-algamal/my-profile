@@ -146,7 +146,7 @@ header .container .navgition ul .menu_button {
     }
 
     header .container .sidabar {
-        width: 100%;
+        width: 50%;
     }
 }
  
@@ -465,10 +465,6 @@ header .container .navgition ul .menu_button {
 
     .skills .container .skills_cords {
         grid-template-columns: repeat(2, 1fr);
-    }
-
-    .skills .container .skills_cords .cord {
-        font-size: 0px;
     }
 }
 
